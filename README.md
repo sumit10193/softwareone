@@ -10,3 +10,7 @@ The class ShoppingCart2 in cart2.py extends class ShoppingCart in cart.py keepin
 - Any other changes which improve the reliability of this code in production
 
 The test suite file test_cart.py is updated to extend coverage and limit the number of tests which need changing when changes are introduced.
+
+Before running the test cases, add folder test-shoppingcart to the path.
+Change directory to test-shoppingcart as current working directory.
+Run the tests as python tests/test_cart.py.
