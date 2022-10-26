@@ -94,8 +94,3 @@ def test_add_different_items_with_total_and_currency_conversion():
     assert receipt[0] == "banana - 1 - £0.96"
     assert receipt[1] == "kiwi - 1 - £2.61"
     assert receipt[2] == "Total - £3.57"
-
-test_add_different_items_with_total_and_ordering()
-test_add_item_with_total_and_currency_conversion()
-test_add_item_with_multiple_quantity_with_total_and_currency_conversion()
-test_add_different_items_with_total_and_currency_conversion()
