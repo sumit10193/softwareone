@@ -1,0 +1,17 @@
+{
+    "apple":
+            {
+                "price" : 1.0, 
+                "currency_code": "€"
+            }, 
+    "banana": 
+            {
+                "price" : 1.1, 
+                "currency_code" : "€"
+            },
+    "kiwi": 
+            {
+                "price" : 3.0, 
+                "currency_code" : "€"
+            }
+}
